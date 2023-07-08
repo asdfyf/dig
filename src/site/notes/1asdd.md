@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1asdd/","tags":["土建 施工员 错题 工程 房建 土木"]}
+{"dg-publish":true,"permalink":"/1asdd/","tags":["土建 施工员 错题 工程 房建 土木","gardenEntry"]}
 ---
 
 
