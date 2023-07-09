@@ -8,3 +8,6 @@
 [note-work](note-work.md)
 
 [work-on](work-on.md)
+
+
+[[note-work\|note-work]]
